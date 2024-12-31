@@ -1,0 +1,8 @@
+# environment variable
+.env
+
+# virtual environment
+myenv
+
+# byte-compiled files
+__pycache__/
